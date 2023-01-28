@@ -8,3 +8,4 @@ My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 - [Permutations](https://cses.fi/problemset/task/1070/)
 - [Number Spiral](https://cses.fi/problemset/task/1071)
 - [Two Knights](https://cses.fi/problemset/task/1072/)
+- [Two Sets](https://cses.fi/problemset/task/1092/)
