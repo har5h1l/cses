@@ -1,3 +1,5 @@
+# https://cses.fi/problemset/task/2205
+
 n = int(input())
 
 for i in range(2 ** n): 
