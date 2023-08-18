@@ -14,3 +14,4 @@ My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 - [Coin Piles](https://cses.fi/problemset/task/1754)
 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 - [Gray Code](https://cses.fi/problemset/task/2205)
+- [Creating Strings](https://cses.fi/problemset/result/6820313/)
