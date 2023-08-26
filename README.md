@@ -18,3 +18,4 @@ My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 - [Creating Strings](https://cses.fi/problemset/result/6820313/)
 
 ### Sorting and Searching:
+- [Distinct Numbers](https://cses.fi/problemset/task/1621)
