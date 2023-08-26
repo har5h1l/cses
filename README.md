@@ -1,6 +1,7 @@
 My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 
 ## Completed so far:
+### Introductionary:
 - [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [Missing Number](https://cses.fi/problemset/task/1083/)
 - [Repetitions](https://cses.fi/problemset/task/1069)
@@ -15,3 +16,5 @@ My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 - [Gray Code](https://cses.fi/problemset/task/2205)
 - [Creating Strings](https://cses.fi/problemset/result/6820313/)
+
+### Sorting and Searching:
