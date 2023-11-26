@@ -19,3 +19,4 @@ My solutions to [**cses**](https://cses.fi/problemset/) problems in Python.
 
 ### Sorting and Searching:
 - [Distinct Numbers](https://cses.fi/problemset/task/1621)
+- [Apartments](https://cses.fi/problemset/task/1084)
